@@ -47,7 +47,10 @@ We fit a grid search cross validation to optimize for a set of success metrics. 
 
 ![roc curve](https://github.com/NadimKawwa/Cyber_Threat_Identification/blob/main/plots/ROC_All_Metrics.png)
 
-Moreover, I conducted a bootstrapping experiment to see how reliable are the results. 95% of the time, the **precision** will be in the range of **(0.177, 0.182)**, for **recall** it is **(0.416, 0.425)**.
+
+Moreover, I conducted a bootstrapping experiment to see how reliable are the results. 
+95% of the time, the **precision** will be in the range of **(0.177, 0.182)**, for **recall** it is **(0.416, 0.425)**.
+
 ![precision recall histogram](https://github.com/NadimKawwa/Cyber_Threat_Identification/blob/main/plots/precision_recall_hist.png)
 
 ## Conclusion
