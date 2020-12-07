@@ -46,7 +46,8 @@ def createPipeline(y_train):
     
     #define preprocessor
     preprocessor = ColumnTransformer([('tfidfvect',
-                               TfidfVectorizer(ngram_range=(1,3)), 
+                               TfidfVectorizer(ngram_range=(1,3),
+                                               stop_words='english'), 
                                'description' #apply transformation to this column
                                       )
                              ],
