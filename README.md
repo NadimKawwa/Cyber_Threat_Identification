@@ -6,6 +6,8 @@
 This repository leverages data science and machine learning to answer the question:
 #### Can we correctly label critical vulnerabilities  with an ML model?
 
+Want to read more in detail? Check out the [medium article](https://towardsdatascience.com/cyber-security-threat-identification-2affad0989c?source=friends_link&sk=f1cfe9b9e765658f091569cd276753aa)!
+
 ## Data
 
 Cybersecurity is an amazingly broad field. The data is vast and it is also very scattered. 
